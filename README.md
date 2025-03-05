@@ -1,0 +1,2 @@
+# wsdm
+This WSDM Cup 2025 competition challenges participants to predict user preferences in head-to-head chatbot response battles. Using a multilingual dataset from the Chatbot Arena, competitors must develop machine learning models to improve chatbot alignment with human preferences. This follows the previous Human Preference Prediction competition, which focused on English. The competition is part of the 18th ACM WSDM Conference, taking place in March 2025 in Hannover, Germany.
